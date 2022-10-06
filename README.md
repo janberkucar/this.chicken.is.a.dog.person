@@ -1,4 +1,4 @@
-# FlyingChickenGame-JavaCourseAssign
+# This Chicken Is A Dog Person! Flying Chicken Game - Java Course Assignment
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/xGrhvdb/asdasdadasda.png" alt="asdasdadasda" border="0"></a>
 
